@@ -1,0 +1,8 @@
+Na russkom sosvsem ne hochet, izvinite, Otchet o loge web servera
+=========================
+Obschee kolichestvo zaprosov:     6
+Kolichestvo unikalnih IP-addresov:       4
+Kolichestvo zaprosov po metodam:
+      5 GET
+      1 POST
+Samiy popularniy URL:       3 /index.html
